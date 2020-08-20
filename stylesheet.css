@@ -7,8 +7,9 @@ body {
   font-family: "Hiragino Kaku Gothic ProN";
 }
 
-.logo {
-  font-size: 40px;  
+.atama {
+  font-size: 40px;
+  color: white;
 }
 
 a {
